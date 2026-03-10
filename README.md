@@ -12,6 +12,7 @@ I build end-to-end projects: **data cleaning → EDA → modeling → evaluation
 
 ## 🔧 Tech Stack
 - **Python**: pandas, numpy, scikit-learn, statsmodels (and common ML/forecasting tools)
+- **SQL**: PostgreSQL / MySQL
 - **ML**: classification, regression, baseline models (Logistic Regression, Random Forest)
 - **Visualization**: matplotlib, seaborn
 - **BI**: Power BI, Tableau
