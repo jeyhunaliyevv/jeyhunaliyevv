@@ -2,7 +2,7 @@
 Data Scientist & AI Engineer bridging the gap between advanced machine learning and production-grade artificial intelligence.
 I build end-to-end intelligent systems: Data Pipelines → Vector Search → LLM Integration → RAG Systems → Production Deployment.
 
-🧠 What I Do
+## 🧠 What I Do
 
 Generative AI & LLMs: Building Retrieval-Augmented Generation (RAG) systems and integrating Large Language Models to solve complex business problems.
 
@@ -12,7 +12,7 @@ Machine Learning: Developing robust classification, regression, and forecasting 
 
 MLOps & Engineering: Moving beyond notebooks to deploy ML models and AI applications into real-world production environments via APIs.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 AI & Machine Learning: PyTorch, Scikit-learn, LangChain, OpenAI API, HuggingFace
 
@@ -22,8 +22,8 @@ MLOps & Deployment: Docker, Git, FastAPI, REST APIs
 
 Visualization: Matplotlib, Seaborn
 
- Location
+ ## Location
 Dubai, UAE
 
-   Contact
+ ## Contact
 - Email: jeyhun.aliyevv01@gmail.com
