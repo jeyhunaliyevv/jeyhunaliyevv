@@ -1,30 +1,29 @@
-# Hi, I'm Jeyhun Aliyev 👋
+Hi, I'm Jeyhun Aliyev 👋
+Data Scientist & AI Engineer bridging the gap between advanced machine learning and production-grade artificial intelligence.
+I build end-to-end intelligent systems: Data Pipelines → Vector Search → LLM Integration → RAG Systems → Production Deployment.
 
-Data Scientist focused on **machine learning, forecasting, and business analytics** — especially in **insurance & fintech**.  
-I build end-to-end projects: **data cleaning → EDA → modeling → evaluation → insights → dashboards**.
+🧠 What I Do
 
-## 🧠 What I Do
-- Customer & policy **segmentation analysis** (product, channel, agent, region)
-- **Payment behavior** analysis (paid vs not-paid, payment methods, patterns)
-- **Forecasting & planning**: premium / sales forecasting, trend & seasonality analysis
-- Build **classification & regression** models for real business problems
-- Deliver insights via **Tableau / Power BI** and clear stakeholder-ready reporting
+Generative AI & LLMs: Building Retrieval-Augmented Generation (RAG) systems and integrating Large Language Models to solve complex business problems.
 
-## 🔧 Tech Stack
-- **Python**: pandas, numpy, scikit-learn, statsmodels (and common ML/forecasting tools)
-- **SQL**: PostgreSQL / MySQL
-- **ML**: classification, regression, baseline models (Logistic Regression, Random Forest)
-- **Visualization**: matplotlib, seaborn
-- **BI**: Power BI, Tableau
-- **Workflow**: Jupyter
+Agentic Workflows: Orchestrating autonomous AI agents (using LangChain) to automate data extraction and analysis pipelines.
 
-## 📌 Featured Projects
-- **California Wildfire – Fire Damage Detection & Analysis** (EDA + baseline ML)
-- **Heart Disease Prediction** (EDA + Logistic Regression / Random Forest)
-- **Video Game Sales Prediction** (EDA + baseline regression models)
+Machine Learning: Developing robust classification, regression, and forecasting models.
 
-## 📍 Location
+MLOps & Engineering: Moving beyond notebooks to deploy ML models and AI applications into real-world production environments via APIs.
+
+🛠️ Tech Stack
+
+AI & Machine Learning: PyTorch, Scikit-learn, LangChain, OpenAI API, HuggingFace
+
+Data Engineering & DBs: Python (Pandas, NumPy), Advanced SQL (PostgreSQL, MySQL), Vector Databases
+
+MLOps & Deployment: Docker, Git, FastAPI, REST APIs
+
+Visualization: Matplotlib, Seaborn
+
+ Location
 Dubai, UAE
 
-## 📫 Contact
+   Contact
 - Email: jeyhun.aliyevv01@gmail.com
