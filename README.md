@@ -1,4 +1,4 @@
-Hi, I'm Jeyhun Aliyev 👋
+# Hi, I'm Jeyhun Aliyev 👋
 Data Scientist & AI Engineer bridging the gap between advanced machine learning and production-grade artificial intelligence.
 I build end-to-end intelligent systems: Data Pipelines → Vector Search → LLM Integration → RAG Systems → Production Deployment.
 
